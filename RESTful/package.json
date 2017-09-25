@@ -1,0 +1,9 @@
+﻿{
+  "name": "restful",
+  "version": "0.0.0",
+  "description": "RESTful",
+  "main": "app.js",
+  "author": {
+    "name": "Никита"
+  }
+}
